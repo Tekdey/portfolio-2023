@@ -7,8 +7,21 @@
 @layer base{
     html, body, #__next, main {
         height: 100%;
+        overflow-x: hidden;
     }
     html{
         @apply bg-t-black
+    }
+    .setting-anim{
+        animation: setting-anim 5s linear infinite;
+    }
+}
+
+@keyframes setting-anim {
+    to{
+        transform: rotate(0deg);
+    }
+    from{
+        transform: rotate(360deg);
     }
 }

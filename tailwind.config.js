@@ -7,10 +7,10 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        "t-light-black": "#393E46",
-        "t-black": "#222831",
-        "t-orange": "#FF5722",
-        "t-white": "#EEEEEE",
+        "t-light-black": "#f3f3f3",
+        "t-black": "#f3f3f3",
+        "t-orange": "#FFA400",
+        "t-white": "black",
       },
     },
   },

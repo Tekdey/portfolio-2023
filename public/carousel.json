@@ -1,0 +1,39 @@
+[
+    {
+        "id": 0,
+        "avatar": "/images/Franck.webp",
+        "text": "\"Ce fût très enrichissant de travailler avec Nathan... une personne très à l’écoute et surtout très patient. Sa méthodologie et ses explications permettent à quiconque une montée en compétence des plus sûr... j’espère sincerement que ça ne sera pas le dernier projet sur lequel nous travaillerons ensemble... Je te souhaite beaucoup de bonnes choses pour la suite\"",
+        "author": "Franck Bisschop",
+        "job": "Développeur frontend, Keep'up"
+    },
+    {
+        "id": 1,
+        "avatar": "/images/Antoine.webp",
+        "text": "\"Lors de notre projet de formation, j'ai eu la chance de collaborer avec Nathan.Je dis la chance et je pèse mes mots, car en plus d'être réellement performant tant en back-end qu'en front-end, il est également très pédagogue et m'a permis d'élargir mon éventail de compétence. Nathan est quelqu'un de patient, à l'écoute, qui s'inclus parfaitement dans une dynamique de groupe.En effet, bien qu'il possède plus de compétence que n'importe lequel des membres de notre groupe, il n'a pas voulu imposer sa manière de faire aux autres mais a pu nous guider pour respecter les bonnes pratiques de développeur.En outre, si je devais décrire Nathan en quelques mots, je dirais que ces compétences sont développées, tant d'un point de vue technique que relationnel.Je lui souhaite une bonne continuation dans sa passion du code !\"",
+        "author": "Antoine Lefrancq",
+        "job": "Développeur frontend, Keep'up"
+    },
+    {
+        "id": 2,
+        "avatar": "/images/Mizuki.webp",
+        "text": "\"J'ai eu la chance de travailler avec Nathan pour un projet de fin d'étude et je n'hésiterais pas à retravailler avec lui si l'opportunité se représentait ! Lead technique de notre groupe, sa contribution a été indispensable dans la réussite de notre projet: il a géré le côté back et le côté front tout en prenant le temps d'expliquer et résoudre les problèmes survenues au reste de l'équipe.Curieux, posé et très travailleur, il est agréable de travailler avec lui et je ne doute pas qu'il sera très apprécié peu importe le groupe auquel il fera partie.Un grand merci !\"",
+        "author": "Mizuki IKEDA",
+        "job": "Développeur frontend, Keep'up"
+    },
+    {
+        "id": 3,
+        "avatar": "/images/Jeffrey.webp",
+        "text": "\"C'est une personne compétente, investis et passionné sur qui on peut compter. À renouveler !\"",
+        "author": "Jeffrey",
+        "job": "Développeur backend, Keepup"
+    },
+    {
+        "id": 4,
+        "avatar": "/images/Romain.webp",
+        "text": "\"Un réel plaisir de travailler pendant 1 mois aux cotés de Nathan. Il est très sympa, toujours disponible pour aider ses collègues de travail et a une facilité à expliquer aux autres.Une très belle rencontre que je souhaite garder en contact par la suite.\"",
+        "author": "Romain Colard",
+        "job": "Développeur frontend, Keep'up"
+    }
+    
+    
+]
